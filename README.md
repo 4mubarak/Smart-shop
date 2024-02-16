@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://smart-shop-psi.vercel.app/ 
 
 ## Features
 
@@ -24,13 +24,13 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/4mubarak/Smart-shop.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd Smart-shop
 ```
 
 Install dependencies
