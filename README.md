@@ -18,8 +18,8 @@ https://smart-shop-psi.vercel.app/
 ![App Screenshot](https://i.ibb.co/Tbr7Ws5/wellpaper-image.jpg)
 
 
-|![App Screenshot] (https://i.ibb.co/fp350Jb/smart-shop-index-1.png)                   |
-|![App Screenrecording](https://vimeo.com/913701578/37bad2e51b?ts=36000&share=copy)    |
+|https://i.ibb.co/fp350Jb/smart-shop-index-1.png                   |
+|https://vimeo.com/913701578/37bad2e51b?ts=36000&share=copy           |
 
 ## Run Locally
 
