@@ -15,7 +15,7 @@ https://smart-shop-psi.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/F0nyHFt)
+![App Screenshot]([url=https://imgbb.com/][img]https://i.ibb.co/Tbr7Ws5/wellpaper-image.jpg[/img][/url])
 
 
 
