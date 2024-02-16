@@ -15,7 +15,7 @@ https://smart-shop-psi.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/F0nyHFt/image.png)
+![App Screenshot](https://ibb.co/F0nyHFt)
 
 
 
