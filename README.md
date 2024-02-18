@@ -19,7 +19,7 @@ https://smart-shop-psi.vercel.app/
 ![Smart-shop](https://i.ibb.co/fp350Jb/smart-shop-index-1.png)
             
 ![Buy men shirts](https://i.ibb.co/LZP2Z4z/Screenshot-Capture-2024-02-16-05-05-42.png)         
-[<img alt="Build-and-Deploy-smart-shop-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/4mubarak/vimeo"/>](https://vimeo.com/913701578/37bad2e51b?share=copy/)
+![Demo](https://vimeo.com/manage/videos/913701578/37bad2e51b/privacy)
 ## Run Locally
 
 Clone the project
