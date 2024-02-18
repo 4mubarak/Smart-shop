@@ -19,7 +19,7 @@ https://smart-shop-psi.vercel.app/
 ![Smart-shop](https://i.ibb.co/fp350Jb/smart-shop-index-1.png)
             
 ![Buy men shirts](https://i.ibb.co/LZP2Z4z/Screenshot-Capture-2024-02-16-05-05-42.png)         
-![Demo](https://vimeo.com/manage/videos/913701578/37bad2e51b/privacy)
+![Demo](<div style="padding:56.18% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/913701578?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="New Recording - 16/02/2024, 15:01:49"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>)
 ## Run Locally
 
 Clone the project
