@@ -1,6 +1,6 @@
-# E-Commerce Website
+# Smart-shop Website
 
-A Ecommerce Website made with React.js Framework.
+A Smart-shop is an Ecommerce Website made with React.js Framework.
 
 
 ## Demo
@@ -17,9 +17,8 @@ https://smart-shop-psi.vercel.app/
 
 ![App Screenshot](https://i.ibb.co/Tbr7Ws5/wellpaper-image.jpg)
 ![Smart-shop](https://i.ibb.co/fp350Jb/smart-shop-index-1.png)
-            
-![Buy men shirts](https://i.ibb.co/LZP2Z4z/Screenshot-Capture-2024-02-16-05-05-42.png)         
-[<div style="padding:56.18% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/913701578?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479">]
+![buy](https://i.ibb.co/F02Stc5/004.png)
+
 ## Run Locally
 
 Clone the project
