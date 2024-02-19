@@ -63,4 +63,7 @@ Just raise an issue, we will discuss it.
 
 If you have any feedback, please reach out to me [here](https://4mubarak.github.io/smart-shop)
 
+## Authors
+
+Mubarak Abdullahi
 
