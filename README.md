@@ -17,6 +17,7 @@ https://smart-shop-psi.vercel.app/
 
 ![App Screenshot](https://i.ibb.co/X4jrq9j/t-shirt-wallpaper.png)
 ![smart-shop-index-1](https://i.ibb.co/fp350Jb/smart-shop-index-1.png)
+![smart-shop-product](https://i.ibb.co/Fm840my/12.png)
 
 ## Run Locally
 
