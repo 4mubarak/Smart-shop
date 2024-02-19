@@ -15,7 +15,7 @@ https://smart-shop-psi.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/Tbr7Ws5/wellpaper-image.jpg)
+![App Screenshot](https://i.ibb.co/X4jrq9j/t-shirt-wallpaper.png)
 ![smart-shop-index-1](https://i.ibb.co/fp350Jb/smart-shop-index-1.png)
 
 ## Run Locally
