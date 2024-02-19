@@ -18,7 +18,8 @@ https://smart-shop-psi.vercel.app/
 ![App Screenshot](https://i.ibb.co/X4jrq9j/t-shirt-wallpaper.png)
 ![smart-shop-index-1](https://i.ibb.co/fp350Jb/smart-shop-index-1.png)
 ![smart-shop-product](https://i.ibb.co/Fm840my/12.png)
-![Electronics](https://i.ibb.co/Gk8gYgk/13.png)
+![Electronics-Samsung-19inch](https://i.ibb.co/Gk8gYgk/13.png)
+![Customer-billing-address](https://i.ibb.co/F02Stc5/004.png)
 
 ## Run Locally
 
