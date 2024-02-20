@@ -69,7 +69,9 @@ If you have any feedback, please reach out to me [here](https://4mubarak.github.
 ## Authors
 
 Mubarak Abdullahi
-* [GitHub](https://github.com/4mubarak/Smart-shop.git) [LinkedIn](https://www.linkedin.com/in/mubarak-abdullahi-a30411161) [Twitter](https://twitter.com/Mubar101)
+* [GitHub](https://github.com/4mubarak/Smart-shop.git)
+* [LinkedIn](https://www.linkedin.com/in/mubarak-abdullahi-a30411161)
+* [Twitter](https://twitter.com/Mubar101)
 
 ## License
 All Rights reserved
